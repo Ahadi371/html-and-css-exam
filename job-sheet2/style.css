@@ -1,5 +1,10 @@
+@media screen and (min-width: 0px){
+    #nabvar{
+        width: 100%;
+        background-color: aqua;
+    }
 #nabvar ul {
-  background-color: aqua;
+  /* background-color: aqua; */
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -9,4 +14,5 @@
 }
 #nabvar ul li img {
   width: 80px;
+}
 }
