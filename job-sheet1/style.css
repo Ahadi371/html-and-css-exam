@@ -1,0 +1,15 @@
+.part1 ul li {
+  display: inline-block;
+  width: 49%;
+}
+.child1 img {
+  width: 725px;
+  height: 600px;
+  border: 1px solid red;
+}
+.child2 img {
+  width: 700px;
+  border: 2px  blue;
+  height: 600px;
+}
+

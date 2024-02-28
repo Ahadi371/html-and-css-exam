@@ -1,0 +1,12 @@
+#nabvar ul {
+  background-color: aqua;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#nabvar ul li {
+  list-style-type: none;
+}
+#nabvar ul li img {
+  width: 80px;
+}
