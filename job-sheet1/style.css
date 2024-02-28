@@ -4,13 +4,19 @@
 }
 
 .child1 img {
-  width: 725px;
-  height: 600px;
-  border: 1px solid red;
+  width: 100px;
+  height: 100px;
+  padding: 10px;
 }
 .child2 img {
-  width: 700px;
-  border: 2px  blue;
-  height: 600px;
+  width: 100px;
+  height: 100px;
+  padding: 10px;
 }
 
+.child1 {
+  border: 2px solid blue;
+}
+.child2 {
+  border: 2px solid red;
+}
